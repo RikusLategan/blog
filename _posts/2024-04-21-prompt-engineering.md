@@ -2,7 +2,7 @@
 layout: post
 date: 2024-05-16 04:14:00 +0000
 title: "Prompt Negotiation"
-permalink: "blog/prompt-negotiation"
+permalink: /posts/prompt-negotiation/
 dept: ai
 ---
 
